@@ -69,4 +69,8 @@ print(max_s)
 1. Уровень языка выражения: lambda  = V / D2^2 = V \* L^2 = 318,578 \* (0,403)^2 = 51,74;
 1. Количество ошибок в программе: В = V / 3000 = 318,578 / 3000 = 0,106.
 
-[Литература](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
+Литература:
+
+* [Halstead complexity measures](https://en.wikipedia.org/wiki/Halstead_complexity_measures)
+* [Метрика программного обеспечения](https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
+* [Хабр: Программный код и его метрики](https://habr.com/ru/company/intel/blog/106082/)
